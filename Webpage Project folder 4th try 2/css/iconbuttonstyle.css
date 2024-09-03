@@ -1,0 +1,4 @@
+a{color: black;}
+button{ background-color:hotpink; color: white; }
+.icon{ display:flex; border: 1px solid black; padding:none; width: 10%; }
+.pageheader { grid-area: header; color: white; text-align: center; padding: 20px; border: 2px solid pink; background-image: url("/Imgs/2aFUHQS.jpg");}
